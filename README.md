@@ -1,4 +1,4 @@
-# Spark-Modelos_de_regressao
+# Spark - Regression Models
 
 **Data Analysis with PySpark:** Processing, Modeling, and Cross-Validation <br>
 This project presents an introductory pipeline for data analysis and processing using PySpark, including steps for data cleaning, transformation, predictive modeling, and cross-validation using three algorithms: Linear Regression, Decision Tree, and Random Forest.<br><br>
